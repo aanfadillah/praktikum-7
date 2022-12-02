@@ -138,5 +138,8 @@ print(d("buku"))
  
  ![aan123](https://user-images.githubusercontent.com/115763475/205227852-9cc6bad1-66c8-423a-ba39-9ce6dcee4235.png)
 
+# Flowchart
+
+![Flowchart aan](https://user-images.githubusercontent.com/115763475/205229022-6e37a55e-b81f-4165-990c-f4b64b4118ea.png)
 
 ## =======================SELESAI=========================
