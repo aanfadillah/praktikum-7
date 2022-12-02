@@ -1,0 +1,8 @@
+## NAMA : AAN FADILLAH PUTRA
+## NIM : 312210327
+## KELAS : TI.22.A.3
+
+# Soal
+
+
+
