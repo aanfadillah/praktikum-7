@@ -107,4 +107,36 @@ while True:
 
 ![k1 aan](https://user-images.githubusercontent.com/115763475/205225150-fdda2d8b-4ccb-45f8-ab89-81c4f8129d0f.png)
 
+# Latihan
+## Soal
+
+![aan](https://user-images.githubusercontent.com/115763475/205227851-c2731a3d-23d5-45b5-bc26-e9acf57e0733.jpg)
+
+```python
+
+import math
+def a(x):
+  return x**2
+a = lambda x : x**2
+print(a(2))
+def b(x, y):
+  return math.sqrt(x**2 + y**2)
+b = lambda x, y : x ** 2 + y ** 2
+print(b(2, 2))
+def c(*args):
+  return sum(args)/len(args)
+c = lambda *args : sum(args)/len(args)
+print(c(1,2,3,4,5))
+def d(s):
+  return "".join(set(s))
+d = lambda s: "".join(set(s))
+print(d("buku"))
+
+ ```
+ 
+ # Ouput
+ 
+ ![aan123](https://user-images.githubusercontent.com/115763475/205227852-9cc6bad1-66c8-423a-ba39-9ce6dcee4235.png)
+
+
 ## =======================SELESAI=========================
