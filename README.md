@@ -87,24 +87,24 @@ while True:
  
  # Outputnya
  
-Tamabah(t)
+### Tambah(t)
 
 ![t 1 aan](https://user-images.githubusercontent.com/115763475/205223837-bb4cf931-db88-4be3-b95f-d5fa6397f3e3.png)
 
-Lihat(l)
+### Lihat(l)
 
 ![l 1 aan](https://user-images.githubusercontent.com/115763475/205224000-0159f79e-2289-49da-909a-640557975c5b.png)
 
-Ubah(u)
+### Ubah(u)
 
 ![u 1 aan](https://user-images.githubusercontent.com/115763475/205224577-e9c07279-5aa7-463b-88c4-ce8ebf4675f2.png)
 
-Hapus(h)
+### Hapus(h)
 
 ![h 1 aan](https://user-images.githubusercontent.com/115763475/205224787-c8701061-ccd6-440c-87c3-cd9e6f7cdbad.png)
 
-Keluar(k)
+### Keluar(k)
 
 ![k1 aan](https://user-images.githubusercontent.com/115763475/205225150-fdda2d8b-4ccb-45f8-ab89-81c4f8129d0f.png)
 
-==================================SELESAI======================================
+## ==================================SELESAI======================================
